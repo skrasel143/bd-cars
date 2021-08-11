@@ -1,0 +1,26 @@
+h1{
+    background-image: linear-gradient(purple, #2853df, #2cf55e);
+}
+.search{
+    background: linear-gradient(to right, #2b5876 0%, #4e4376  51%, #2b5876  100%);
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 15px;
+}
+.btn-danger{
+    background-image: linear-gradient(to right, #2b5876 0%, #4e4376  51%, #2b5876  100%);
+}
+.card{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 15px;
+}
+.btn:hover{
+    background: linear-gradient(to right, #ec5541 0%, #b3a04c 51%, #ebc445 100%);
+    box-shadow: 10px 10px 20px gray;
+}
+a:hover{
+    background: linear-gradient(to right, #ec5541 0%, #b3a04c 51%, #ebc445 100%);
+    box-shadow: 10px 10px 20px gray;
+    padding-left: 20px;
+    border-radius: 10px;
+}
